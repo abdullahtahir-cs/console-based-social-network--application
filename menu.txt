@@ -1,0 +1,19 @@
+ ____________________________________________________________________________________________________ 
+|                                                                                                    |
+|                                                                                                    |
+|                                  You can do following operations:                                  |
+|                                                                                                    |
+|                                  1-  Home.                                                         |
+|                                  2-  Add Friend.                                                   |
+|                                  3-  View Friend List.                                             |
+|                                  4-  Add Post.                                                     |
+|                                  5-  View a Post.                                                  |
+|                                  6-  Like a Post.                                                  |
+|                                  7-  View the list of People who liked a post.                     |
+|                                  8-  Comment on Post.                                              |
+|                                  9-  Share a Post.                                                 |
+|                                  10- View Users's Timeline.                                        |
+|                                  11- View Page.                                                    |
+|                                  12- Log out.                                                      |
+|                                                                                                    |
+|____________________________________________________________________________________________________|

@@ -1,0 +1,27 @@
+id
+chit chat
+post1
+Rania says:"Life these days is so boring :("
+
+Sara commented:"Please lets get out and meet!"
+----------------
+post2
+Afaq says:"How are y'all doing?".
+
+Iman commented:"Feelin good bro"
+Ayeza commented:"I'm fine, what about u afaq?"
+Aqsa commented:"Fine,u tell"
+----------------
+post3
+Barira says:"Corona is getting serious! Stay safe guys"
+
+Muid commented:"Please wear mask everyone"
+Ali commented:"May God keep us safe"
+----------------
+post4
+Farhin says:"Where's my miiiiinddd? :p"
+
+Bisma commented:"Mybe it's in the gutter :D"
+----------------
+
+

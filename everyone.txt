@@ -1,0 +1,28 @@
+id
+everyone
+post1
+Aymen says:"Life has no limitations,except the ones you make."
+
+Mark commented:"True that!"
+Alia commented:"nice <3 "
+----------------
+post2
+john says:"So happy,I am done with my exams".
+
+Maira commented:"Let's hang out!"
+Ayla commented:"Thank God..."
+faran commented:"God bless you :)"
+Rabia commented:"May you succeed in every aspect of life!"
+----------------
+post3
+Abdullah says:"You only live once, but if you do it right, once is enough.”
+
+Hamza commented:"Louderrr"
+Ali commented:"Damn!!"
+----------------
+post4
+Maria says:"Wow, Weather is amazing!"
+
+Julie commented:"It's raining here :p"
+Ashi commented:"I love when its cloudy outside"
+----------------
